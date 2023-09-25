@@ -12,10 +12,10 @@ const Donation = () => {
             setDonations(donation)
         }
         else{
-            setNoData('No Data Found')
+            setNoData('No Data Found ')
         }
     },[])
-    // console.log(donation);
+
     return (
         <div>
             {
