@@ -10,8 +10,8 @@ const Banner = () => {
       >
         <div className=" hero-overlay rounded-md bg-opacity-70"></div>
         <div className="hero-content text-center text-neutral-content">
-          <div className="max-w-md">
-            <h1 className="mb-5 text-4xl text-white font-bold">I Grow By Helping People In Need</h1>
+          <div className="">
+            <h1 className="mb-5 text-lg md:text-2xl lg:text-4xl text-white font-bold">I Grow By Helping People In Need</h1>
             <div className=" btn-group btn-group-horizontal">
                 <input className=" sm:px-1 md:px-4 rounded-s-md text-rose-500" type="text" placeholder="Search Here.........." />
                 <button className=" btn text-white bg-rose-500">Search</button>
