@@ -1,0 +1,146 @@
+[
+    {
+      "campaign_id": 1,
+      "category": "Education",
+      "title": "Help Students in Need",
+      "category_bg_color": "#FF444933",
+      "card_bg_color": "#FF444924",
+      "text_button_bg_color": "#FF444A",
+      "description": "This campaign aims to make a meaningful impact on the lives of underprivileged students who are determined to overcome financial barriers and pursue their education. Many of these students face daunting challenges in accessing educational materials and funding for their studies. Your generous contribution to the 'Help Students in Need' campaign will directly address these challenges. By donating, you will provide crucial support in the form of textbooks, school supplies, and scholarships to talented but financially disadvantaged students. These students have a strong desire to learn, succeed, and contribute positively to society, but they lack the necessary resources. Your donation can bridge that gap and empower them to achieve their dreams of a better future.",
+      "price": 25.00,
+      "image_url": "https://i.ibb.co/XYY8PJ3/1637d03024396a02313e472ca1619bc390f109e9.jpg"
+    },
+    {
+      "campaign_id": 2,
+      "category": "Health",
+      "title": "Medical Supplies for Hospitals",
+      "category_bg_color": "#0052FF33",
+      "card_bg_color": "#0052FF26",
+      "text_button_bg_color": "#0052FF",
+      "description": "In the face of the ongoing COVID-19 pandemic, hospitals and healthcare facilities continue to play a vital role in saving lives and ensuring public health. However, the shortage of essential medical supplies poses a significant challenge. The 'Medical Supplies for Hospitals' campaign seeks to address this critical issue and invites you to make a tangible difference in the fight against the virus. Your donation will directly support the procurement and distribution of essential medical supplies, including masks, gloves, ventilators, and other life-saving equipment, to hospitals treating COVID-19 patients. By ensuring that healthcare professionals have access to these supplies, you help protect front-line workers and contribute to the overall effort to curb the spread of the virus.Every dollar you donate will have a direct impact on the health and safety of individuals in your community and beyond. Join us in the fight against COVID-19 by supporting this campaign and making a meaningful contribution to the well-being of countless individuals and families.",
+  
+      "price": 50.00,
+      "image_url": "https://i.ibb.co/QNC74jW/MSF163911-High-0.jpg"
+    },
+    {
+      "campaign_id": 3,
+      "category": "Clothing",
+      "title": "Warm Winter Clothes Drive",
+      "category_bg_color": "#79C23D33",
+      "card_bg_color": "#79C23D24",
+      "text_button_bg_color": "#79C23F",
+      "description": "As the cold winter months approach, we invite you to join our 'Warm Winter Clothes Drive' campaign to make a real difference in the lives of homeless individuals in our community. The harsh weather conditions during winter can be especially challenging for those without a place to call home. Your contribution can provide much-needed warmth, comfort, and hope. Your support will enable us to collect and distribute essential winter clothing items such as coats, blankets, scarves, gloves, and thermal socks. These items can help protect vulnerable individuals from the bitter cold and keep them safe during the winter nights. Additionally, your donation will also contribute to our outreach efforts to connect with homeless individuals and offer them shelter and support services.By participating in this campaign, you become a source of warmth in someone's life, offering them a chance to survive the cold season with dignity and care. Together, we can make a significant impact and create a sense of belonging for those who need it most.",
+  
+      "price": 20.00,
+      "image_url": "https://i.ibb.co/ggKwsGZ/where-to-donate-clothing-header.jpg"
+    },
+    {
+      "campaign_id": 4,
+      "category": "Food",
+      "title": "Feed the Hungry",
+      "category_bg_color": "#F871472F",
+      "card_bg_color": "#F8714724",
+      "text_button_bg_color": "#F87147",
+      "description": "Hunger is an urgent issue affecting countless families in our community. The 'Feed the Hungry' campaign is committed to alleviating food insecurity by distributing food packages to those in need. Your donation will help put food on the tables of families who are struggling to make ends meet, ensuring that no one goes to bed hungry.Our mission is to provide nutritious and wholesome meals to those facing food insecurity. Your financial support will directly contribute to the purchase of essential food items and the operation of our distribution network. We believe that access to food is a basic human right, and with your help, we can make that belief a reality for everyone in our community.Your generosity will not only provide nourishment but also hope to individuals and families facing difficult circumstances. Join us in the 'Feed the Hungry' campaign and be a part of the solution to end hunger in our community.",
+  
+      "price": 10.00,
+      "image_url": "https://i.ibb.co/Jdx4LBW/Food.png"
+    },
+    {
+      "campaign_id": 5,
+      "category": "Education",
+      "title": "Books for Schools",
+      "category_bg_color": "#FF444933",
+      "card_bg_color": "#FF444924",
+      "text_button_bg_color": "#FF444A",
+      "description": "Access to quality education is a fundamental right that should be available to all children. However, many underfunded schools lack the necessary resources to provide students with a well-rounded education. The 'Books for Schools' campaign aims to change that by supplying books and educational resources to these schools.Your donation will have a direct impact on classrooms by stocking libraries, furnishing classrooms with textbooks, and providing teachers with the tools they need to engage their students effectively. By contributing to this campaign, you empower students with knowledge, opening doors to a world of opportunities and possibilities.Education is a powerful force for positive change, and with your support, we can ensure that no child is left behind due to a lack of educational resources. Join us in the 'Books for Schools' campaign and be a catalyst for the academic success of the next generation.",
+  
+      "price": 30.00,
+      "image_url": "https://i.ibb.co/ns6R93L/139771672-16144122225671n.jpg"
+    },
+    {
+      "campaign_id": 6,
+      "category": "Health",
+      "title": "Vaccination Drive",
+      "category_bg_color": "#0052FF33",
+      "card_bg_color": "#0052FF26",
+      "text_button_bg_color": "#0052FF",
+      "description": "The 'Vaccination Drive' campaign aims to support a crucial initiative: making vaccines accessible to all individuals, regardless of their socio-economic status or geographical location. Vaccines are a powerful tool in the fight against infectious diseases, and your donation will play a vital role in achieving widespread vaccination coverage.Your contribution will support vaccination efforts by funding outreach programs, vaccination clinics, and awareness campaigns. By ensuring that everyone has access to vaccines, we can protect communities from deadly diseases and contribute to a safer and healthier world. Your generosity can save lives, prevent illness, and bring us closer to ending the COVID-19 pandemic and other preventable diseases. Join us in the 'Vaccination Drive' campaign and be a part of the global effort to secure a healthier future for all.",
+  
+      "price": 15.00,
+      "image_url": "https://i.ibb.co/5BJxXq0/Health.png"
+    },
+    {
+      "campaign_id": 7,
+      "category": "Clothing",
+      "title": "Back-to-School Clothing",
+      "category_bg_color": "#F8714724",
+      "card_bg_color": "#79C23D24",
+      "text_button_bg_color": "#79C23F",
+      "description": "Every child deserves the opportunity to start the school year with confidence and the necessary clothing for a successful academic journey. The 'Back-to-School Clothing' campaign aims to provide clothing to children from low-income families, ensuring they have a positive start to their educational year.Your support will help us purchase new school uniforms, shoes, and backpacks for these children. By donating, you play a crucial role in boosting their self-esteem and motivation to learn. A new set of clothes can make all the difference in a child's attitude towards school and education.Your contribution will directly impact the lives of these young students, setting them up for success in the classroom and beyond. Join us in the 'Back-to-School Clothing' campaign and help create a brighter future for these deserving children.",
+  
+      "price": 18.00,
+      "image_url": "https://i.ibb.co/qM7RvBc/istockphoto-1283154274-612x612.jpg"
+    },
+    {
+      "campaign_id": 8,
+      "category": "Food",
+      "title": "Community Kitchen Expansion",
+      "category_bg_color": "#F871472F",
+      "card_bg_color": "#F8714724",
+      "text_button_bg_color": "#F87147",
+      "description": "Hunger is a persistent challenge in our community, and the 'Community Kitchen Expansion' campaign is committed to addressing it head-on. Your donation will support the expansion of a community kitchen that serves meals to the homeless and hungry, ensuring that they have access to nutritious food.Our goal is to reach more individuals in need and provide a lifeline to those struggling with food insecurity. Your financial support will enable us to enhance our kitchen facilities, purchase fresh and healthy ingredients, and hire additional staff to prepare and serve meals.With your help, we can make a significant impact on hunger in our community, providing not only sustenance but also hope to those who need it most. Join us in the 'Community Kitchen Expansion' campaign and be a part of the solution to end hunger and improve lives.",
+  
+      "price": 40.00,
+      "image_url": "https://i.ibb.co/hCKvkJ8/139042694-15889910670181n.jpg"
+    },
+    {
+      "campaign_id": 9,
+      "category": "Education",
+      "title": "Laptops for Remote Learning",
+      "category_bg_color": "#FF444933",
+      "card_bg_color": "#FF444924",
+      "text_button_bg_color": "#FF444A",
+      "description": "The COVID-19 pandemic has brought new challenges to the field of education, with remote learning becoming a necessity. However, not all students have access to the technology they need for online education. The 'Laptops for Remote Learning' campaign aims to bridge this digital divide and ensure educational continuity for all students.Your donation will provide laptops to students in need, enabling them to attend virtual classes, complete assignments, and stay connected with their teachers and peers. By supporting this campaign, you contribute to the academic success and future prospects of these students, despite the challenges posed by the pandemic.Education is a powerful tool for breaking the cycle of poverty, and your generosity can make it accessible to all. Join us in the 'Laptops for Remote Learning' campaign and empower students to continue their education from the safety of their homes.",
+  
+      "price": 60.00,
+      "image_url": "https://i.ibb.co/vV9KGKB/Digital-Education-in-India.jpg"
+    },
+    {
+      "campaign_id": 10,
+      "category": "Health",
+      "title": "Mental Health Awareness",
+      "category_bg_color": "#0052FF33",
+      "card_bg_color": "#0052FF26",
+      "text_button_bg_color": "#0052FF",
+      "description": "Mental health is a critical aspect of overall well-being, and the 'Mental Health Awareness' campaign is dedicated to promoting awareness, reducing stigma, and providing resources for mental health support. Your donation will support initiatives that make a positive impact on the mental health of individuals and communities.Mental health issues affect millions of people worldwide, and many suffer in silence due to the stigma associated with seeking help. Your contribution will fund awareness campaigns, support groups, and access to mental health professionals for those in need. By breaking down the barriers to seeking help, we can provide support and hope to individuals experiencing mental health challenges.Your generosity will play a pivotal role in improving mental health outcomes and creating a more compassionate and understanding society. Join us in the 'Mental Health Awareness' campaign and help us make mental health a priority.",
+  
+      "price": 35.00,
+      "image_url": "https://i.ibb.co/HrqqQK4/MSF203844-High.jpg"
+    },
+    {
+      "campaign_id": 11,
+      "category": "Clothing",
+      "title": "Winter Coat Drive",
+      "category_bg_color": "#F8714724",
+      "card_bg_color": "#79C23D24",
+      "text_button_bg_color": "#79C23F",
+      "description": "Winter can be a harsh and unforgiving season, especially for those who lack warm clothing. The 'Winter Coat Drive' campaign invites you to join us in collecting and distributing winter coats to keep vulnerable individuals warm during the cold months. Your support will provide essential winter clothing items to those in need, including coats, jackets, scarves, hats, and gloves. These items can make a world of difference for individuals who may be exposed to freezing temperatures. Your generosity will not only offer physical warmth but also provide comfort and protection against the elements. By participating in this campaign, you become a source of hope and resilience for those facing the challenges of winter without adequate clothing. Join us in the 'Winter Coat Drive' campaign and help us ensure that no one is left out in the cold.",
+  
+      "price": 25.00,
+      "image_url": "https://i.ibb.co/kSwBzZ4/Whats-App-Image-2021-10-15-at-16-33-50-1.jpg"
+    },
+    {
+      "campaign_id": 12,
+      "category": "Food",
+      "title": "School Lunch Program",
+      "category_bg_color": "#F871472F",
+      "card_bg_color": "#F8714724",
+      "text_button_bg_color": "#F87147",
+      "description": "Access to nutritious meals is essential for the growth and development of children. The 'School Lunch Program' campaign seeks to fund a program that provides wholesome lunches to schoolchildren in need. Your donation will ensure that these children have the fuel they need for learning and growth.Many students come to school without adequate food, making it difficult for them to focus on their studies and reach their full potential. Your contribution will directly impact their lives by funding nutritious school lunches. By ensuring that children have access to healthy meals, we can improve their academic performance, overall health, and well-being.Your generosity will help create a nurturing environment in which children can thrive. Join us in the 'School Lunch Program' campaign and be a part of the solution to ensure that every child has the opportunity to succeed.",
+  
+      "price": 12.00,
+      "image_url": "https://i.ibb.co/wJVfCc7/st.jpg"
+    }
+  ]
+  
