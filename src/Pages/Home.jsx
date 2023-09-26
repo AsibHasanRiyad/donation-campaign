@@ -31,7 +31,7 @@ const Home = () => {
                 {/* <input onChange={(e) => setSearch(e.target.value)} className=" sm:px-1  md:px-4 rounded-s-md text-rose-500" type="text" placeholder="Search Here.........." />
                 <button  className=" btn text-white bg-rose-500">Search</button> */}
                 <form onSubmit={handelSearchBtn} className=" btn-group btn-group-horizontal border border-gray-400 rounded-lg">
-                  <input className=" text-[#FF444A] rounded-l-lg" type="text" name="search" id="" />
+                  <input className=" text-[#FF444A] rounded-l-lg px-0 md:px-2" type="text" name="search" id="" placeholder="Search Here......" />
                   <input className=" btn bg-[#FF444A] text-white" type="submit" value="Search" />
                 </form>
             </div>
