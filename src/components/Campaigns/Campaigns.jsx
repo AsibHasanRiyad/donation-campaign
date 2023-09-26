@@ -13,7 +13,8 @@ const Campaigns = ({campaigns, search}) => {
                 
                 campaigns?.filter(item =>{
                     return search.toLowerCase() === '' ? item : 
-                    item.category.toLowerCase().includes(search);
+                    // item.category.toLowerCase().includes(search);
+                    item.category.toLowerCase().includes(search.toLowerCase())
                 }).map(campaign => <Campaign key={campaign.campaign_id} search={search}  campaign={campaign}></Campaign> )
             }
 

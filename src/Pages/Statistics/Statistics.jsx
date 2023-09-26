@@ -9,12 +9,12 @@ const Statistics = () => {
     total = localData.reduce((a,b) => a + b , 0)
   }
   return (
-    <div>
+    <div className=' flex justify-center items-center h-[60vh] mt-20'>
       <Chart
-        width={800}
-        height={800}
+        width={300}
+        height={300}
         type="pie"
-        series={[10, total]}
+        series={[12, total]}
         options={{
           labels: ["Total Donation", "Your Donation"],
           legend: {
