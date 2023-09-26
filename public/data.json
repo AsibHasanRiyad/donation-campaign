@@ -2,7 +2,7 @@
     {
       "campaign_id": 1,
       "category": "Education",
-      "title": "Help Students in Need",
+      "title": "Help Students ",
       "category_bg_color": "#FF444933",
       "card_bg_color": "#FF444924",
       "text_button_bg_color": "#FF444A",
@@ -13,7 +13,7 @@
     {
       "campaign_id": 2,
       "category": "Health",
-      "title": "Medical Supplies for Hospitals",
+      "title": "Medical Supplies",
       "category_bg_color": "#0052FF33",
       "card_bg_color": "#0052FF26",
       "text_button_bg_color": "#0052FF",
@@ -25,7 +25,7 @@
     {
       "campaign_id": 3,
       "category": "Clothing",
-      "title": "Warm Winter Clothes Drive",
+      "title": "Warm Clothes ",
       "category_bg_color": "#79C23D33",
       "card_bg_color": "#79C23D24",
       "text_button_bg_color": "#79C23F",
@@ -73,7 +73,7 @@
     {
       "campaign_id": 7,
       "category": "Clothing",
-      "title": "Back-to-School Clothing",
+      "title": "School Clothing",
       "category_bg_color": "#79C23D33",
       "card_bg_color": "#79C23D24",
       "text_button_bg_color": "#79C23F",
@@ -85,7 +85,7 @@
     {
       "campaign_id": 8,
       "category": "Food",
-      "title": "Community Kitchen Expansion",
+      "title": "Community Kitchen",
       "category_bg_color": "#F871472F",
       "card_bg_color": "#F8714724",
       "text_button_bg_color": "#F87147",
@@ -97,7 +97,7 @@
     {
       "campaign_id": 9,
       "category": "Education",
-      "title": "Laptops for Remote Learning",
+      "title": "Laptops for Student",
       "category_bg_color": "#FF444933",
       "card_bg_color": "#FF444924",
       "text_button_bg_color": "#FF444A",
@@ -109,7 +109,7 @@
     {
       "campaign_id": 10,
       "category": "Health",
-      "title": "Mental Health Awareness",
+      "title": "Mental Health",
       "category_bg_color": "#0052FF33",
       "card_bg_color": "#0052FF26",
       "text_button_bg_color": "#0052FF",
@@ -121,7 +121,7 @@
     {
       "campaign_id": 11,
       "category": "Clothing",
-      "title": "Winter Coat Drive",
+      "title": "Winter Coat ",
       "category_bg_color": "#79C23D33",
       "card_bg_color": "#79C23D24",
       "text_button_bg_color": "#79C23F",
@@ -133,7 +133,7 @@
     {
       "campaign_id": 12,
       "category": "Food",
-      "title": "School Lunch Program",
+      "title": "School Lunch ",
       "category_bg_color": "#F871472F",
       "card_bg_color": "#F8714724",
       "text_button_bg_color": "#F87147",

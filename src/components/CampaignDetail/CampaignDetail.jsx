@@ -1,5 +1,6 @@
 /* eslint-disable react/prop-types */
 import Swal from "sweetalert2";
+import saveDonation from "./Local";
 
       
       const CampaignDetail = ({campaignDetails}) => {
@@ -36,6 +37,7 @@ import Swal from "sweetalert2";
                 Swal.fire("Congratulations!", `You Have donated $${price}`);
             }
             }
+            saveDonation()
         };
         
   return <div>

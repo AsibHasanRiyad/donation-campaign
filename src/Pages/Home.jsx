@@ -2,18 +2,18 @@ import { useLoaderData } from "react-router-dom";
 // import Banner from "../components/Banner";
 import Campaigns from "../components/Campaigns/Campaigns";
 import { useState } from "react";
+// import Banner from "../components/Banner";
+// import Campaign from "../components/Campaign/Campaign";
 
 
 const Home = () => {
     const campaigns = useLoaderData();
     const [search , setSearch] = useState('');
-    // console.log(campaigns);
-    // console.log(search);
+
+
     return (
-        <div>
-           {/* <Banner></Banner> */}
-           <div>
-      <div
+      <div>
+        <div
         className="hero h-[55vh] my-4 rounded-md"
         style={{
           backgroundImage:
@@ -26,14 +26,15 @@ const Home = () => {
             <h1 className="mb-5 text-lg md:text-2xl lg:text-4xl text-black font-bold">I Grow By Helping People In Need</h1>
             <div className=" btn-group btn-group-horizontal border border-gray-400 rounded-lg">
                 <input onChange={(e) => setSearch(e.target.value)} className=" sm:px-1  md:px-4 rounded-s-md text-rose-500" type="text" placeholder="Search Here.........." />
-                <button className=" btn text-white bg-rose-500">Search</button>
+                <button  className=" btn text-white bg-rose-500">Search</button>
             </div>
           </div>
         </div>
       </div>
-    </div>
-           <Campaigns search={search} campaigns={campaigns} ></Campaigns>
-        </div>
+                <Campaigns search={search} campaigns={campaigns} ></Campaigns>
+      </div>
+
+
     );
 };
 
