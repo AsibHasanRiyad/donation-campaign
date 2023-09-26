@@ -1,4 +1,8 @@
+import { useState } from "react";
+
 const Banner = () => {
+  const [search , setSearch] = useState('');
+  console.log(search);
   return (
     <div>
       <div
@@ -13,7 +17,7 @@ const Banner = () => {
           <div className="">
             <h1 className="mb-5 text-lg md:text-2xl lg:text-4xl text-black font-bold">I Grow By Helping People In Need</h1>
             <div className=" btn-group btn-group-horizontal border border-gray-400 rounded-lg">
-                <input className=" sm:px-1  md:px-4 rounded-s-md text-rose-500" type="text" placeholder="Search Here.........." />
+                <input onChange={(e) => setSearch(e.target.value)} className=" sm:px-1  md:px-4 rounded-s-md text-rose-500" type="text" placeholder="Search Here.........." />
                 <button className=" btn text-white bg-rose-500">Search</button>
             </div>
           </div>
