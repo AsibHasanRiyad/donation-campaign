@@ -6,11 +6,11 @@ export const options = {
   title: "Your Donation Percentage",
 };
 const totalDonation = JSON.parse(localStorage.getItem('donation'));
-console.log(totalDonation.length);
+const donationLength = totalDonation.length
 export const data = [
     ["Task", "Total Donation Percentage"],
-    ["Total Donation", 12 - totalDonation.length],
-    ["Your Donation", totalDonation.length ],
+    ["Total Donation", 12 - donationLength],
+    ["Your Donation", donationLength  ],
   ];
 
 const Statistics = () => {
@@ -22,8 +22,8 @@ const Statistics = () => {
                 chartType="PieChart"
                 data={data}
                 options={options}
-                width={"100%"}
-                height={"400px"}
+                width={"100vw"}
+                height={"80vh"}
                 />
         </div>
     );
