@@ -15,7 +15,7 @@ const Campaign = ({ campaign }) => {
   } = campaign;
 
   return (
-    <NavLink to={`/details/${campaign_id}`} >
+    <NavLink to={`/details/${campaign_id}`} state={title} >
       <div style={{background: card_bg_color, color:text_button_bg_color}} className="h-[280px] bg-[`${category_bg_color}] rounded">
         <figure>
           <img
