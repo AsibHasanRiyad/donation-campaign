@@ -14,7 +14,7 @@ const Statistics = () => {
         width={300}
         height={300}
         type="pie"
-        series={[12, total]}
+        series={[12-total, total]}
         options={{
           labels: ["Total Donation", "Your Donation"],
           legend: {
