@@ -9,12 +9,12 @@ const MainLayout = () => {
     useEffect(() =>{
         // console.log(loc.pathname);
         if (loc.pathname === '/') {
-            document.title = 'Home'
+            document.title = 'CAMPAIGN -HOME'
         }else{
-            document.title = ` ${loc.pathname.toUpperCase().replace('/', ' ')}`
+            document.title = `CAMPAIGN ${loc.pathname.toUpperCase().replace('/', '-')}`
         }
         if (loc.state) {
-            document.title = ` ${loc.state.toUpperCase().replace('/', ' ')}`
+            document.title = `CAMPAIGN - ${loc.state.toUpperCase().replace('/', '-')}`
         }
     },[loc.pathname, loc.state])
     return (
